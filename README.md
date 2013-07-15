@@ -1,9 +1,9 @@
 Simple-Responsive-Blog
 ======================
 
-Responsive blog using ems
+## Responsive blog using ems
 
 
-bc. sudo npm install -g http-server
-bc. cd path/to/project/directory
-bc. http-server
+    sudo npm install -g http-server
+    cd path/to/project/directory
+    http-server

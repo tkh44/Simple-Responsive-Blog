@@ -1,7 +1,7 @@
 Simple-Responsive-Blog
 ======================
 
-## Responsive blog using ems
+### Responsive blog using ems
 
 
     sudo npm install -g http-server
